@@ -1,1 +1,1 @@
-vekhyat.github.io/git-guide
+https://www.vekhyat.github.io/git-guide
